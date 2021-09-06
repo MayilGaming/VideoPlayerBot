@@ -1,5 +1,5 @@
 """
-VideoPlayerBot, Telegram Video Chat Bot
+VideoPlayerBot, Lonely Video Chat Bot
 Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
 
 This program is free software: you can redistribute it and/or modify
